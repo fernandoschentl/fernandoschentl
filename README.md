@@ -26,6 +26,8 @@
   - Bootstrap
   - Tailwind
   - Material Design
+
+ ---
  
 ##### [ Graphics and Design ]
 - **Photography**
