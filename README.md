@@ -7,18 +7,18 @@
 - **PHP**:
     - Structured Language and MVC Frameworks
     - Versions 5, 7 and 8
-    - **CakePHP** v2, 3 and 4
-    - **Laravel** v5, 6, 7, 8, 9 and 10
+    - CakePHP v2, 3 and 4
+    - Laravel v5, 6, 7, 8, 9 and 10
 - **JavaScript**
     - JS Vanilla and JS Frameworks
     - JQuery, AJAX and more
-    - **Vue.js**
-    - **Angular JS**
-    - **React JS**
-    - **Next.js**
-    - **Node.js**
+    - Vue.js v2 and v3
+    - Angular JS
+    - React JS
+    - Next.js v13
+    - Node.js
 - **Markup Languages**
-    - HTML 4 and **5**
+    - HTML 4 and 5
     - XML, XHTML
 - **Stylesheet**
   - CSS 2 and 3
