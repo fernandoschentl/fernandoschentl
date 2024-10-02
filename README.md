@@ -6,22 +6,23 @@
 ##### [ Web Development ]
 - **PHP**:
     - Structured Language and MVC Frameworks
-    - Versions 5, 7 and 8
-    - CakePHP v2, 3 and 4
-    - Laravel v5, 6, 7, 8, 9 and 10
+    - PHP Versions 5, 7 and 8
+    - Symfony v5 until v6
+    - CakePHP v2 until v4
+    - Laravel v5 until v11
 - **JavaScript**
     - JS Vanilla and JS Frameworks
     - JQuery, AJAX and more
-    - Vue.js v2 and v3
+    - Vue.js v2 until v3
     - Angular JS
     - React JS
-    - Next.js v13
+    - Next.js v13 ~ v14
     - Node.js
 - **Markup Languages**
-    - HTML 4 and 5
+    - HTML 4 until 5
     - XML, XHTML
 - **Stylesheet**
-  - CSS 2 and 3
+  - CSS 2 ~ 3
   - SASS / SCSS
   - Bootstrap
   - Tailwind
